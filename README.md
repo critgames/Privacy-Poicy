@@ -3,7 +3,7 @@ _Effective date: May 18, 2019_
 
 Crit Games LLC (“us”, “we”, or “our”) operates mobile applications (the “Service”).
 
-This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy was created with the help of the [Free Privacy Policy Generator|https://www.freeprivacypolicy.com/free-privacy-policy-generator.php].
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy was created with the help of the [Free Privacy Policy Generator](https://www.freeprivacypolicy.com/free-privacy-policy-generator.php).
 
 We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
@@ -87,4 +87,4 @@ We will let you know via email and/or a prominent notice on our Service, prior t
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 ### Contact Us
-If you have any questions about this Privacy Policy, please [contact us|http://critgames.com/contact].
+If you have any questions about this Privacy Policy, please [contact us](http://critgames.com/contact).
