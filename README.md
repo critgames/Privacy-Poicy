@@ -1,4 +1,4 @@
-# Privacy-Poicy
+# Privacy-Policy
 _Effective date: May 18, 2019_
 
 Crit Games LLC (“us”, “we”, or “our”) operates mobile applications (the “Service”).
